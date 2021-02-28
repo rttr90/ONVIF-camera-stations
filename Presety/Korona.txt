@@ -1,0 +1,22 @@
+{
+  "GetStatusResponse": {
+    "PTZStatus": {
+      "Position": {
+        "PanTilt": {
+          "$": {
+            "x": "0.465",
+            "y": "0.183",
+            "space": "http://www.onvif.org/ver10/tptz/PanTiltSpaces/PositionGenericSpace"
+          }
+        },
+        "Zoom": {
+          "$": {
+            "x": "0.874",
+            "space": "http://www.onvif.org/ver10/tptz/ZoomSpaces/PositionGenericSpace"
+          }
+        }
+      },
+      "UtcTime": "2021-02-12T09:56:49.472"
+    }
+  }
+}
